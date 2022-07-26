@@ -48,7 +48,7 @@ mag_axe.set_description("An enchanted axe usefull for killing strong enemies")
 ballroom.set_item(mag_axe)
 
 sword = Item("Sword")
-sword.set_description("A steal sword effective for killing humans")
+sword.set_description("A steel sword effective for killing humans")
 gaming_room.set_item(sword)
 
 current_room = ballroom
